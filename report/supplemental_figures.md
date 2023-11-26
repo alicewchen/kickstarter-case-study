@@ -6,4 +6,4 @@
 
 ![figure_s2](figures/figure_s2.png)
 
-**Figure S2.** This scatter plot shows that the correlation between campaign length and funds raised was minimal (R^2 = 0.02) with a regression coefficient (β =0.0082) indicating a very weak positive trend.
+**Figure S2.** This scatter plot shows that the correlation between campaign length and funds raised was minimal (R<sup>2</sup> = 0.02) with a regression coefficient (β =0.0082) indicating a very weak positive trend.
