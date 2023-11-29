@@ -1,4 +1,4 @@
-# Case Study: Strategize a Successful Kickerstarter Campaign
+# Case Study: Strategizing a Successful Kickerstarter Campaign
 
 A small board games company is interested in setting up a Kickstarter campaign with a minimum fundraising goal of $15,000 USD. 
 
